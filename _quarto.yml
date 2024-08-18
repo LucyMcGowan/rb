@@ -6,10 +6,15 @@ execute:
 
 website:
   title: ""
+  twitter-card: 
+    creator: "@rivianfamily"
   navbar:
     left:
       - href: index.qmd
         text: Home
+    right:
+      - icon: twitter
+        href: https://twitter.com/rivianfamily
 
 format:
   html:
