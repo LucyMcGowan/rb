@@ -24,13 +24,9 @@ title-block-banner: header.png
 
 #title-block-header {
   position: relative;
-  height: 600px;
-  margin-bottom: -200px;
+  height: 300px;
+  margin-bottom: -75px;
 }
 
-.quarto-title-banner {
-  position: relative;
-  height: 100%;
-}
 
 </style>
