@@ -1,7 +1,7 @@
 ---
 title: "Your Reservation is confirmed"
 author: Lucy
-image: featured.png
+image: featured.jpg
 date: 2024-03-17
 categories:
   - details
