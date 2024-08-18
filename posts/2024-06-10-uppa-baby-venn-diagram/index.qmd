@@ -1,5 +1,5 @@
 ---
-title: "The venn diagram between families with Rivians and UPPAbaby Vistas is a circle"
+title: "The venn diagram of families with Rivians and UPPAbaby Vistas is a circle"
 author: Lucy
 image: uppababy.jpeg
 date: 2024-06-10
