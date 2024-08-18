@@ -15,12 +15,10 @@ title-block-banner: header.png
 <style>
 
 .title {
-  text-align: right;
   color: #e9ecef !important;
 }
 
 .subtitle {
-  text-align: right;
     color: #e9ecef;
 }
 
