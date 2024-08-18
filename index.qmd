@@ -1,0 +1,38 @@
+---
+title: "Rivian Family: Party of Five"
+subtitle: "three carseats, zero admissions, endless adventures"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: header.png 
+---
+
+<style>
+
+.title {
+  text-align: right;
+  color: #e9ecef !important;
+}
+
+.subtitle {
+  text-align: right;
+    color: #e9ecef;
+}
+
+#title-block-header {
+  position: relative;
+  height: 600px;
+  margin-bottom: -200px;
+}
+
+.quarto-title-banner {
+  position: relative;
+  height: 100%;
+}
+
+</style>

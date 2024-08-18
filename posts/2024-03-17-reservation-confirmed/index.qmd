@@ -1,0 +1,54 @@
+---
+title: "Your Reservation is confirmed"
+author: Lucy
+date: 2024-03-17
+categories:
+  - details
+  - getting started
+---
+
+![](featured.jpg)
+
+It's official! We just got the confirmation email: "Your R1S reservation's all set!" 
+
+## The decision
+
+How did we decide on a Rivian? Three factors:
+
+1. I woke up in a panic a few nights ago realizing that our third baby, due in June, will add a third full-size carseat to our car, something our current cars cannot easily fit
+2. Four days ago, Rivian added North Carolina to the list of states eligible to lease 
+3. Patrick thinks Rivians are cool
+
+Let's talk about #1 first. Our family car is a Ford Explorer. I love it for the two girls, we have their carseats in the middle row, but it definitely cannot fit three carseats across unless one is a booster and our eldest is around 10 pounds away from being big enough for a booster seat, so it may be a while before that is a viable option. We could put one carseat in the third row, but it looks like if we do that someone will have to always climb in the trunk. This is ok, but not ideal, in my middle of the night panic, I am imagining trying to wrangle three kids in a busy parking lot and this configuration, while certainly doable, does not seem convinient. I am about to have more babies than hands! If we can make life more convineint I am all for it. 
+
+We started researching carseats in a Rivian, I quickly found this facebook post from a few years ago -- look at those cute kids! Three in a row, all looking so happy!
+
+::: {.column-margin}
+Ok, a friend pointed out to me that the middle kid here may actaully be in a booster seat, so this picture itself doesn't prove that the Rivian can solve my problems, but there is definitely more room than the Ford Escape back there! And those carseats on the ends look big, cupholders and everything! 
+:::
+
+![](facebook.png){width=50% fig-align="center"}
+
+On to #2. Patrick received an email 4 days ago that North Carolina was added to the list for leasing. Here is why we would we prefer a lease:
+
+1. There is a [$7500 tax credit](https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after) for new electric vehicles purchased after 2023. *Purchasing* a new Rivian does not qualify for the tax credit because they are too expensive. *But* there is a "leasing loophole". It turns out with a lease the [lender gets the tax credit](https://www.edmunds.com/fuel-economy/the-ins-and-outs-of-electric-vehicle-tax-credits.html) (and the rules are different since this is a commerical transaction) and they can opt to pass the savings on to the lessees (us!), which is what Rivian is doing.
+
+2. Patrick is totally hyped about the Rivian, but I am a bit more risk adverse when it comes to being an early adopter (I knowwww we aren't that early when it comes to electric vehicles, but the average person doesn't have one! And this company feels new!). Leasing feels like a safer option to me. Also, with a car like a Rivian with so much tech changing so rapidly, I was worried if we purchased an early model we'd be dissappointed in a few years when everything was improved. 
+
+3. We did some #rivianmath. We decided that we were going to trade in our Ford Explorer -- we have a monthly payment on this car until next December. With the tax credit and trade-in, we were able to get our montly payment for the Rivian down to less than what we are paying for Explorer, so I know we can fit it in the budget. Why is this Rivian math? Well, obviously even though we will be paying less per month for the Rivian, if we had kept the Ford Explorer we would *own* it after our payments, with the Rivian we are basically just lighting money on fire and then we have to give it back (jk, we are getting to drive a beautiful vehicle for three years and my babies will be able to all fit comfortably! No one will get squished in a parking lot trying to climb into a trunk!) Like I said, this is #rivianmath, but it did make the sign up easier knowing that our budget coudl already fit this.
+
+#3 is perhaps self-evident -- Patrick thinks the Rivians are cool! He's probably right, he usually is. So there you have it! We'll post updates as they come.
+
+## The details
+
+We initially (just yesterday!) picked out a lovely RIS in Rivian Blue to lease, however by the time we began clicking through today it was gone! The vehicles available to lease seem to be going fast and the website seems to be displaying some as avaialble that are not once you click through. This morning I called and spoke with someone who confirmed that a 2023 R1S in Salt Lake City is available to lease and they can ship it to us free of charge. Here are the specs:
+
+* Launch Ediion
+* Quad-Motor AWD
+* El Cap Granite exterior color
+* 21" Road wheel and tire
+* Ocean Coast + Dark Ash Wood interior
+* Front Paint Protection
+* Tow Hooks
+
+The down payment is in, now we wait!
