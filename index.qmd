@@ -1,6 +1,6 @@
 ---
 title: "Rivian Family: Party of Five"
-subtitle: "three carseats, zero admissions, endless adventures"
+subtitle: "three carseats<br>zero emissions<br>endless adventures"
 listing: 
   contents: posts
   sort: "date desc"
@@ -15,18 +15,22 @@ title-block-banner: header.png
 <style>
 
 .title {
+  text-align: right;
   color: #e9ecef !important;
 }
 
 .subtitle {
     color: #e9ecef;
+    text-align: right;
 }
 
 #title-block-header {
   position: relative;
   height: 300px;
-  margin-bottom: -75px;
 }
-
-
 </style>
+
+::: {style="margin-left:100px; margin-right:100px; text-align:center;"}
+We're a family of five and we recently leased a Rivian R1S<br>**Is this a practical family car? Let's find out together, join us on our adventures!** <br>
+
+:::

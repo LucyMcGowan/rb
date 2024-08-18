@@ -1,0 +1,44 @@
+---
+title: "Happiest EV on the Block"
+subtitle: "AKA if the 'SNOO' fits"
+author: Lucy
+image: beloved.png
+date: 2024-06-06
+categories:
+  - snoo
+  - packing
+---
+
+We are prepping for our first family road trip in the Rivian and we just welcomed the newest member of our family four weeks ago. We are a SNOO family, we love Harvey Karp and we LOVE our SNOO, so we *will* be finding a way to squeeze it into the car for this trip. When trying to decide between the stroller and the SNOO, the SNOO definitely wins. In fact, I would ditch my suitcase and just wear all of my travel clothes Ryanair style in favor of the SNOO. 
+
+::: {.column-margin}
+Good news, dear readers, we actually didn't have to decide between the stroller and the SNOO, a few days after this post we figured out we can stick the stroller in the frunk! Check out the details [in this post](/2024-06-10-uppa-baby-venn-diagram/index.html).
+:::
+
+::: {.callout-important}
+For those without infants, or perhaps with infants who sleep better than ours, [the SNOO](https://www.happiestbaby.com/products/snoo-smart-bassinet) is a little rocking robot that soothes your baby to sleep. We've used it for all three babies and *love* it. 
+:::
+
+:::: {.columns}
+
+::: {.column}
+
+::: {.centered-image}
+![Our beloved.](beloved.png)
+:::
+
+:::
+
+::: {.column}
+After some testing, we have concluded the best place for the beloved SNOO is in the trunk. Here's how we did it:
+
+1. We opened the spare tire compartment (we don't have a spare tire but if we did, again, would absolutely choose the SNOO over a tire) and removed the contents
+1. Patrick and my suitcase went in here (we had one large suitcase)
+1. We removed the legs on the SNOO and stuck those inside it
+1. SNOO went on top of the suitcase, and duffle bag with the kids clothes went inside along with the SNOO legs
+
+Voile! 🥳
+:::
+::::
+
+

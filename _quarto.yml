@@ -15,4 +15,5 @@ format:
   html:
     theme: 
       - simplex
+      - rivian.scss
     toc: true
