@@ -1,1 +1,1 @@
-Sitemap: https://LucyMcGowan.github.io/rivian-blog/sitemap.xml
+Sitemap: https://LucyMcGowan.github.io/rb/sitemap.xml
