@@ -1,7 +1,7 @@
 ---
 title: "Our first road trip: Part 1"
 author: Lucy
-date: 2024-06-11
+date: 2024-07-11
 image: all-purpose.png
 categories:
   - road trips
@@ -22,8 +22,8 @@ This is a 4-night trip. We've got:
 ✅ One duffle bag with clothes and shoes for the big sisters in the trunk  
 ✅ Three carseats -- rear-facing infant carseat in the middle, two full size forward-facing carseats in the way back  
 ✅ Two iPads that can velcro to the middle row headrests  
-✅ [UPPAbaby Vista double stroller](/posts/2024-06-10-uppa-baby-venn-diagram/) in the frunk  
-✅ [SNOO](/posts/2024-06-06-happiest-ev/) in the trunk  
+✅ [UPPAbaby Vista double stroller](/posts/2024-07-10-uppa-baby-venn-diagram/) in the frunk  
+✅ [SNOO](/posts/2024-07-06-happiest-ev/) in the trunk  
 ✅ One tuxedo for dad and two dresses for mom laid on top of the bags in the trunk  
 ❌ No gas  
 ✅ Three kids, two parents  
