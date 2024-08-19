@@ -392,6 +392,10 @@ h2, h3, h4, h5, h6 {
   }
   // Images
 
+.quarto-title-block .quarto-title-banner {
+  background-position: bottom left; 
+}
+
 .centered-image {
     display: block; 
     border: 5px solid $gray-700;
