@@ -2,6 +2,7 @@
 title: "Our first road trip: Part 1"
 author: Lucy
 date: 2024-06-11
+image: IMG_4836.png
 categories:
   - road trips
   - Washington DC
