@@ -33,7 +33,7 @@ We've got a full charge and only 115 miles to drive, so no range anxiety here! P
 
 ::::
 
-::: {.column-note}
+::: {.callout-note}
 ## Post Mortem: How it went
 Once again, the drive went great! Baby slept most of the way and we didn't need any bathroom breaks! As predicted, there was traffic on 95 so we took the scenic route on 301, it was lovely! We made it to D.C. with plenty of time to unpack, settle in, and get ready for the rehearsal dinner.  
 :::
