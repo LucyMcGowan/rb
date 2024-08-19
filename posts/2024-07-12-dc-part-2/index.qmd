@@ -17,3 +17,18 @@ alternate routes in our back pocket.
 ## The Drive
 
 We've got a full charge and only 115 miles to drive, so no range anxiety here! Plan A is to take 95 straight to D.C., Plan B will take us on 301 -- the scenic route!
+
+:::: {.columns}
+::: {.column}
+::: {.centered-image}
+![Plan A](plan-a.PNG)
+:::
+:::
+
+::: {.column}
+::: {.centered-image}
+![Plan B](plan-b.PNG)
+:::
+:::
+
+::::
