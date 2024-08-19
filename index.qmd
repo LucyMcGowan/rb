@@ -30,7 +30,7 @@ title-block-banner: header.png
 }
 </style>
 
-::: {style="margin-left:100px; margin-right:100px; text-align:center;"}
+::: {style="text-align:center;"}
 We're a family of five and we recently leased a Rivian R1S<br>**Is this a practical family car? Let's find out together, join us on our adventures!** <br>
 
 :::
