@@ -1,0 +1,44 @@
+---
+title: "Our first road trip: Part 1"
+author: Lucy
+date: 2024-06-11
+categories:
+  - road trips
+  - Washington DC
+---
+
+Here we go! First full family road trip! Roll call: we’ve got mom driving (👋), dad riding shotgun (or sometimes in the middle to pacify baby), and two big sisters in the back back.  
+
+## The plan
+
+We’re staring the day with a full charge ⚡️, first time we’ve had it at 100%! We’re planning to just drive to Richmond today and tackle the DC traffic well rested tomorrow. Hoping to leave mid-morning, but we will see! The Rivian is mostly packed, so seems doable! 
+
+## Map it out
+
+It turns out if we charge up to 100% (which we have!) and put the car in converve mode it predicts we can go straight there with no stops -- nice! 
+
+::: {.centered-image}
+![](map-conserve.jpeg)
+:::
+
+We are going to need to stop after two hours anyways so I can breastfeed the baby, so we opted for All-Purpose mode and a stop. We set the filter in the Rivian app to only suggest Rivian adventure network charging spots that are fast. By default, Rivian picked a stop in Henderson. A bit of research shows there is a Starbucks right next to the charging stations (perfect for a mama recharge while Rivian gets a boost, and hopefully some clean bathrooms 🤞)
+
+:::: {.columns}
+
+::: {.column}
+::: {.centered-image}
+![](filter.jpeg)
+:::
+:::
+
+::: {.column}
+::: {.centered-image}
+![](allpurpose.jpeg)
+:::
+:::
+
+::::
+
+Off we go! Will report back how it goes. 
+
+
