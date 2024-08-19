@@ -2,7 +2,7 @@
 title: "If the 'SNOO' fits..."
 subtitle: "Happiest EV on the Block"
 author: Lucy
-image: beloved.png
+image: precious.png
 date: 2024-07-06
 categories:
   - snoo
@@ -19,17 +19,12 @@ Good news, dear readers, we actually didn't have to decide between the stroller 
 For those without infants, or perhaps with infants who sleep better than ours, [the SNOO](https://www.happiestbaby.com/products/snoo-smart-bassinet) is a little rocking robot that soothes your baby to sleep. We've used it for all three babies and *love* it. 
 :::
 
-:::: {.columns}
+:::: {columns}
 
-::: {.column}
-
-::: {.centered-image}
+::: {.centered-image style="float: left; margin-right: 30px; width:45%;"}
 ![The precious.](precious.png)
 :::
 
-:::
-
-::: {.column}
 After some testing, we have concluded the best place for the beloved SNOO is in the trunk. Here's how we did it:
 
 1. We opened the spare tire compartment (we don't have a spare tire but if we did, again, would absolutely choose the SNOO over a tire) and removed the contents
@@ -38,7 +33,7 @@ After some testing, we have concluded the best place for the beloved SNOO is in 
 1. SNOO went on top of the suitcase, and duffle bag with the kids clothes went inside along with the SNOO legs
 
 Voilà! 🥳
-:::
+
 ::::
 
 
