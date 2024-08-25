@@ -22,7 +22,7 @@ For those without infants, or perhaps with infants who sleep better than ours, [
 :::: {columns}
 
 ::: {.centered-image style="float: left; margin-right: 30px; width:45%;"}
-![The precious.](precious.png)
+![The precious.](8c3aba49d78c4686bd1fc96e06b04d83.mp4)
 :::
 
 After some testing, we have concluded the best place for the beloved SNOO is in the trunk. Here's how we did it:
